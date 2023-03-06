@@ -78,13 +78,6 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 ### Punycode
 
 - [Punycoder](https://www.punycoder.com/) : make a puny code and beware of [phising with it](https://www.xudongz.com/blog/2017/idn-phishing/)
-  - <www.xn--c1yn36f.org>
-  - xn--s28h.com
-  - <www.xn--pple-43d.com> is not <www.apple.com>
-  - xn--n9fjcxob2ae662e.com or xn--9h2hfacrhxbi6a.com is not tokopedia.com
-  - xn--tokopdia-g8g.com is not tokopedia.com
-  - xn--gmil-63d.com is not gmail.com
-  - xn--yhoo-53d.com is not yahoo.com
 - [Name.com](https://www.name.com/punycode-converter)
 - [Mothereff](https://mothereff.in/punycode)
 - [Homoglyph](https://www.irongeek.com/homoglyph-attack-generator.php)
